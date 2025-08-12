@@ -12,7 +12,7 @@ Click here to try the app: https://house-price-prediction-app-kxfyh45xgjznjcdc28
 
 ---
 
-## 📸 Demo Screenshot
+## 📸 Demo Screenshots
 ![App Screenshot](Screenshot1.png)
 
 
