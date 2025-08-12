@@ -7,7 +7,7 @@ It also provides **data visualizations** like distribution graphs and feature im
 ---
 
 ## 📸 Demo Screenshot
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot1.png)
 
 ![App Screenshot](screenshot.png)
 
