@@ -6,10 +6,18 @@ It also provides **data visualizations** like distribution graphs and feature im
 
 ---
 
+## 🚀 Live Demo
+ 
+Click here to try the app: https://house-price-prediction-app-kxfyh45xgjznjcdc28yvqc.streamlit.app/
+
+---
+
 ## 📸 Demo Screenshot
 ![App Screenshot](Screenshot1.png)
 
+
 ![App Screenshot](Screenshot2.png)
+
 
 ![App Screenshot](Screenshot3.png)<!-- Replace with your screenshot filename -->
 
@@ -47,5 +55,5 @@ The app uses a preprocessed dataset:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/house-price-prediction-app.git
+   git clone https://github.com/SwarnangkurDey/house-price-prediction-app.git
    cd house-price-prediction-app
