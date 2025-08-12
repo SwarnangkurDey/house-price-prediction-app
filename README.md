@@ -11,7 +11,7 @@ It also provides **data visualizations** like distribution graphs and feature im
 
 ![App Screenshot](Screenshot2.png)
 
-![App Screenshot](screenshot.png)<!-- Replace with your screenshot filename -->
+![App Screenshot](Screenshot3.png)<!-- Replace with your screenshot filename -->
 
 ---
 
