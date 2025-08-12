@@ -1,6 +1,6 @@
 # 🏡 House Price Prediction Web App
 
-An interactive machine learning web application that predicts Melbourne house prices using **XGBoost** and **Streamlit**.  
+An interactive machine learning web application that predicts house prices using **XGBoost** and **Streamlit**.  
 The app takes user-input features such as the number of rooms, property type, postcode, distance to the city, and property count in the suburb to estimate the price.  
 It also provides **data visualizations** like distribution graphs and feature importance.
 
